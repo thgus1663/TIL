@@ -26,3 +26,5 @@ COL1 NUMBER(20)
 COL2 VARCHAR2(20));
 ```
 
+깔깔깔깔
+
